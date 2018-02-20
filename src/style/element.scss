@@ -1,0 +1,57 @@
+
+.el-select{
+  max-width: 120px;
+}
+.el-input{
+  max-width: 135px
+}
+.search{
+  max-width: 250px
+}
+.pagination{
+  margin-top: 15px;
+}
+.el-table thead{
+  color: #1f2d3d;
+}
+.el-table th{
+  background: #eef1f6;
+}
+
+
+.established{
+   .el-select{
+     height: 30px !important;
+     .el-input{
+       height: 30px !important;
+       .el-input__inner{
+         height: 30px;
+       }
+     }
+   }
+ }
+.search{
+  .el-input{
+    max-width: 250px !important;
+  }
+}
+
+.accountSelect{
+  width: 270px;
+  max-width: 270px;
+  .el-input{
+    max-width: 270px !important;
+  }
+}
+
+.selectAddress{
+  width: 120px;
+  max-width: 120px;
+  .el-input{
+    max-width: 120px !important;
+  }
+}
+
+
+
+
